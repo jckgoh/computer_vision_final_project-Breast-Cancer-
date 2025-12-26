@@ -31,19 +31,16 @@ Requirements
 - Virtual environment (recommended)
 
 Installation
-cd backend
-
-python -m venv venv
-
-venv\Scripts\activate    # Windows
-
-pip install -r requirements.txt
+- cd backend
+- python -m venv venv
+- venv\Scripts\activate    # Windows
+- pip install -r requirements.txt
 
 Run Backend
-uvicorn app.main:app --reload
+- uvicorn app.main:app --reload
 
 The backend API will be available at:
-http://127.0.0.1:8000
+- http://127.0.0.1:8000
 
 # Frontend Setup
 Requirements
