@@ -6,25 +6,6 @@ This project implements an end-to-end deep learning system for breast cancer ima
 
 The ResNet50 model is selected for deployment due to its superior performance in experimental evaluation, demonstrating high accuracy and strong generalization capability compared to other architectures.
 
-Computer Vision Final Project/
-│
-├── backend/            # Deep learning backend (ResNet50 inference)
-│   ├── app/
-│   │   ├── models/     # Trained ResNet50 model (Git LFS)
-│   │   └── ...
-│   └── requirements.txt
-│
-├── frontend/           # React + Vite frontend application
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── ...
-│
-├── .gitignore
-├── .gitattributes
-└── README.md
-
-
 # Backend Setup
 Requirements
 - Python 3.9+
