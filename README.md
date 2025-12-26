@@ -51,14 +51,14 @@ Requirements
 - npm
 
 Installation
-cd frontend
-npm install
+- cd frontend
+- npm install
 
 Run Frontend
-npm run dev
+- npm run dev
 
 Frontend URL:
-http://localhost:5173
+- http://localhost:5173
 
 # Model File Management
 The trained ResNet50 model is managed using Git Large File Storage (Git LFS) due to GitHub’s file size limitations.
