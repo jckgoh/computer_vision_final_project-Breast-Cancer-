@@ -42,7 +42,7 @@ uvicorn app.main:app --reload
 The backend API will be available at:
 http://127.0.0.1:8000
 
-#Frontend Setup
+# Frontend Setup
 Requirements
 - Node.js (v18 or later recommended)
 - npm
